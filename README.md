@@ -20,4 +20,14 @@
 
       - You would need to utilize 6 (#) signs in order to produce the smallest heading.
 
+1. **When making text bold or italicized for emphasis, it is best practice to use which symbol?**
+
+   - It is best practice to use the (*) and the (_) symbols or a combination of both when making text bold or italicized for emphasis.
+
+1. **How do you create a link with Markdown?**
+
+   - The way that you can create a link with Markdown is by enclosing the link text in brackets (ex, [Google]), followed by the website URL in parentheses (ex, (https://google.com)).
+  
+   - _Full example:_
+     The search engine that I enjoy using the most is [Google](https://google.com).
 
