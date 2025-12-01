@@ -31,3 +31,7 @@
    - _Full example:_
      The search engine that I enjoy using the most is [Google](https://google.com).
 
+1. **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
+
+   - The three symbols that you can create an unordered (bulleted) list on Markdown are dashes (-), plus signs (+), or asterisks (*).
+
