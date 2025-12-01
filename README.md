@@ -13,3 +13,11 @@
    - The symbol that is utilized to create a heading is (#) in front of a word or phrase.
 
    1. _How many do you need to create the largest heading?_
+
+      - You only need 1 (#) sign in order to create the largest heading.
+
+   1. _How many do you need to create the smallest heading?_
+
+      - You would need to utilize 6 (#) signs in order to produce the smallest heading.
+
+
