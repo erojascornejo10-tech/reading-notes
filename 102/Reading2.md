@@ -2,14 +2,15 @@
 
 ## What are four important features to look for in a text editor? 
 
-The four important features to look for in a text editor are:
+**The four important features to look for in a text editor are:**
 
 1. code completion
-2. syntax highlighting
    
-4. a variety of themes (to reduce eye strain and fatigue)
+1. syntax highlighting
    
-6. The ability to choose from a vast selection of extensions when you need them
+1. a variety of themes (to reduce eye strain and fatigue)
+   
+1. The ability to choose from a vast selection of extensions when you need them
 
  
 
@@ -54,3 +55,4 @@ cd ..- This command will go up one level in the directory.
  
 
 ls projects/new-project- lists the contents of the new-project directory within the projects directory 
+
