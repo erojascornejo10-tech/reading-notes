@@ -1,37 +1,25 @@
-# reading-notes1
+# reading-notes-Eduardo-Rojas-Cornejo-2025-2026
 
-1. **What is a Markdown?**
+## 102 Reading Notes
+* [Read 1](102/Reading1.md)
+* [Read 2](102/Reading2.md)
+* [Read 3](103/Reading3.md)
+* [Read 4](103/Reading4.md)
+* [Read 5](103/Reading5.md)
+* [Read 6](103/Reading6.md)
+* [Read 7](103/Reading7.md)
+* [Read 8](103/Reading8.md)
 
-   - Markdown is a lightweight markup language that you can use to add formatting elements to plaintext documents. For example, if one would like to make a certain phrase in the document bold, then the user would add two asterisks before and after the phrase in order to format it into bold letters.
+## Hi, I'm Eddie!
+Check out my [Github Reading notes]()
 
-1. **Why do we use Markdown?**
+## **GROWTH MINDSET**
+A growth mindest means believing your abilities can improve through effort and learning. 
 
-   - People use Markdown due to its versatility and ability to create documents, websites, books, notes, email messages, technical documentation and presentations. Markdown is an independent platform that can operate on any running device and is used everywhere, from web-based applications, to websites like GitHub and Reddit. Markdown is also portable and can be imported into another Markdown application with ease and future proof as Markdown will always be able to be read using current and future text editing applications.
+### <ins>3 Reminders for myself</ins>
 
-1. **What symbol will create a heading in Markdown?**
+1. Embrace challenges
 
-   - The symbol that is utilized to create a heading is (#) in front of a word or phrase.
+2. Learn from mistakes
 
-   1. _How many do you need to create the largest heading?_
-
-      - You only need 1 (#) sign in order to create the largest heading.
-
-   1. _How many do you need to create the smallest heading?_
-
-      - You would need to utilize 6 (#) signs in order to produce the smallest heading.
-
-1. **When making text bold or italicized for emphasis, it is best practice to use which symbol?**
-
-   - It is best practice to use the (*) and the (_) symbols or a combination of both when making text bold or italicized for emphasis.
-
-1. **How do you create a link with Markdown?**
-
-   - The way that you can create a link with Markdown is by enclosing the link text in brackets (ex, [Google]), followed by the website URL in parentheses (ex, (https://google.com)).
-  
-   - _Full example:_
-     The search engine that I enjoy using the most is [Google](https://google.com).
-
-1. **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
-
-   - The three symbols that you can create an unordered (bulleted) list on Markdown are dashes (-), plus signs (+), or asterisks (*).
-
+3. Keep practicing consistently
