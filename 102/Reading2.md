@@ -12,6 +12,7 @@
    
 1. The ability to choose from a vast selection of extensions when you need them
 
+
  
 
 **What do the following commands do?** 
@@ -32,7 +33,8 @@
 
  
 
-Touch- a utility primarily used for two main purposes, creating empty files & updating file timestamps. 
+* _touch_ - A utility primarily used for two main purposes: creating empty files & updating file timestamps. 
+
 
  
 
@@ -55,5 +57,6 @@ cd ..- This command will go up one level in the directory.
  
 
 ls projects/new-project- lists the contents of the new-project directory within the projects directory 
+
 
 
