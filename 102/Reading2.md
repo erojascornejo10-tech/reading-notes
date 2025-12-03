@@ -1,4 +1,4 @@
-# Reading 3
+# Reading 2
 
 ## What are four important features to look for in a text editor? 
 
@@ -14,21 +14,21 @@
 
  
 
-What do the following commands do? 
+**What do the following commands do?** 
 
-pwd – Stands for Print Working Directory. It tells you what the current or present working directory is that you are in. Print Working Directory - ie. Where are we currently. 
-
- 
-
-ls - Stands for list. Provides a listing of our current location. List the contents of a directory. 
+* _pwd_ – Stands for Print Working Directory. It tells you which working directory you are currently in.
 
  
 
-cd- stands for change directory. Change Directories - ie. move to another directory. 
+* _ls_ - Abbreviation for list. It provides a listing of our current location by listing the contents of a directory. 
 
  
 
-mkdir- a command-line instruction used to create new directories (folders) in a file system 
+* _cd_ - Stands for change directories. This command redirects you to another directory. 
+
+ 
+
+* _mkdir_ - A command-line instruction used to create new directories (folders) in a file system.
 
  
 
@@ -55,4 +55,5 @@ cd ..- This command will go up one level in the directory.
  
 
 ls projects/new-project- lists the contents of the new-project directory within the projects directory 
+
 
