@@ -15,48 +15,50 @@
 
  
 
-**What do the following commands do?** 
+## What do the following commands do?
 
-* _pwd_ – Stands for Print Working Directory. It tells you which working directory you are currently in.
-
- 
-
-* _ls_ - Abbreviation for list. It provides a listing of our current location by listing the contents of a directory. 
+* ___pwd___ – Stands for Print Working Directory. It tells you which working directory you are currently in.
 
  
 
-* _cd_ - Stands for change directories. This command redirects you to another directory. 
+* ___ls___ - Abbreviation for list. It provides a listing of our current location by listing the contents of a directory. 
 
  
 
-* _mkdir_ - A command-line instruction used to create new directories (folders) in a file system.
+* ___cd___ - Stands for change directories. This command redirects you to another directory. 
 
  
 
-* _touch_ - A utility primarily used for two main purposes: creating empty files & updating file timestamps. 
-
-
- 
-
-Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.) 
-
-cd projects- Navigate the file system and move your current working directory to the “projects” location.   
+* ___mkdir___ - A command-line instruction used to create new directories (folders) in a file system.
 
  
 
-mkdir new-project- Creates a new directory named "new-project" 
+* ___touch___ - A utility primarily used for two main purposes: creating empty files & updating file timestamps. 
+
+
+
+ 
+## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?** 
+(Arguments are extra instructions given to a command.) 
+
+* ___cd projects___ - Navigates the file system and moves your current working directory to the “projects” location.   
 
  
 
-touch new-project/newfile.md- Creates a new file named newfile.md inside a directory named new-project using the touch command. 
+* ___mkdir new-project___ - Creates a new directory named "new-project" 
 
  
 
-cd ..- This command will go up one level in the directory. 
+* ___touch new-project/newfile.md___ - Creates a new file named "newfile.md" inside a directory named "new-project" using the touch command. 
 
  
 
-ls projects/new-project- lists the contents of the new-project directory within the projects directory 
+* ___cd ..___ - This command will go up one level in the directory. 
+
+ 
+
+*  ___ls projects/new-project___ - This command lists the contents of the new-project directory within the projects directory 
+
 
 
 
