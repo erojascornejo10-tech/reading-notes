@@ -6,7 +6,7 @@
    
 1. ___What are the three ways to insert CSS into your project?___
    
-   CSS can be used for many purposes related to the look and feel of your web page, for example: 
+   _Three ways that CSS can be inserted into your project to modify the look and feel are:_ 
 
    * Text styling, including changing the color and size of headings and links. 
 
@@ -18,5 +18,6 @@
 
    p { color: red; }  
    
+
 
 
