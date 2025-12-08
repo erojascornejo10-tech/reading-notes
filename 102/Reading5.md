@@ -14,8 +14,9 @@
 
    * Special effects such as animation. 
    
-1. ___Write an example of a CSS rule that would give all <p> elements red text.___
+1. ___Write an example of a CSS rule that would give all < p > elements red text.___
 
    p { color: red; }  
    
+
 
