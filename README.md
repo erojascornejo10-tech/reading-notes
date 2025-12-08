@@ -1,5 +1,20 @@
 # Reading-notes-Eduardo-Rojas-Cornejo-2025-2026
 
+## Hi, I'm Eddie!
+Check out my [Github Reading notes](https://erojascornejo10-tech.github.io/reading-notes/)
+
+## **GROWTH MINDSET**
+A growth mindset means believing your abilities can improve through effort and learning. 
+
+### <ins>3 Reminders for myself</ins>
+
+1. Embrace challenges
+
+2. Learn from mistakes
+
+3. Keep practicing consistently
+
+
 ## 102 Reading Notes
 * [Read 1](102/Reading1.md)
 * [Read 2](102/Reading2.md)
@@ -26,18 +41,3 @@
 * [Read 13](201/Reading13.md)
 * [Read 14](201/Reading14.md)
 * [Read 15](201/Reading15.md)
-
-
-## Hi, I'm Eddie!
-Check out my [Github Reading notes](https://erojascornejo10-tech.github.io/reading-notes/)
-
-## **GROWTH MINDSET**
-A growth mindest means believing your abilities can improve through effort and learning. 
-
-### <ins>3 Reminders for myself</ins>
-
-1. Embrace challenges
-
-2. Learn from mistakes
-
-3. Keep practicing consistently
