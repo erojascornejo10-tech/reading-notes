@@ -13,7 +13,7 @@
 1. ***What is the command to track and stage files?***
    
    * _Track and stage a single file for committing_ - git add filename
-   * _Track and stage all files for committing_ - $ git add * 
+   * _Track and stage all files for committing_ - $ git add . 
 
 1. ***What is the command to take a snapshot of your changed files?***
    
@@ -22,6 +22,7 @@
 1. ***What is the command to send your changed files to Github?***
    
    * git push [remote-name][branch-name] 
+
 
 
 
