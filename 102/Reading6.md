@@ -6,7 +6,11 @@
    
 1. ***What does it mean to declare a variable?***
 
-   Declaring a variable is the act of creating a variable in JavaScript. 
+   Declaring a variable is the act of creating a variable in JavaScript.
+
+   *They can be declared in 4 ways:*
+      * Modern JavaScript - Using let; Using const
+      * Older JavaScript - Using var; Automatically (both not recommended)
    
 1. ***What is an “assignment” operator, and what does it do?***
 
@@ -14,5 +18,6 @@
    
 1. ***What is information received from the user called?***
    
+
 
 
