@@ -17,7 +17,9 @@
    In JavaScript, the equal sign (=) is an assignment operator, not an equal to operator. For example, if let x = 6 + 7; then x = 13 
    
 1. ***What is information received from the user called?***
-   
+
+   User-generated input data
+
 
 
 
