@@ -38,3 +38,21 @@ for (i = 0; i == 0 || i < 8; i++) {
   1. Displaying all the books on a digital bookshelf
     
      **A for loop**
+
+## Question 3
+
+**Which code example is a correctly-written JavaScript `while` loop?**
+
+  1. while a === 'house': a = askUserAgain();
+
+  1. let a = '';
+while{ a === '42' } (
+  a = getNewInput();
+)
+
+  1. while(false); { log.console('looping!'); }
+
+  1. ***let answer = ''; 
+while (answer !== 'S3kreT P455w0rD') {
+  answer = prompt('Enter the passphrase to proceed...');
+}***
