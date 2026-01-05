@@ -65,9 +65,9 @@ while (answer !== 'S3kreT P455w0rD') {
   console.log(i);
 }
 
-  1. ***for (let i = 0; i <= 8; i++) {
+  1. <ins>***for (let i = 0; i <= 8; i++) {
   console.log(i);
-}***
+}***</ins>
 
   1. for (let i = 1; i < 8; i++) {
   console.log(i);
