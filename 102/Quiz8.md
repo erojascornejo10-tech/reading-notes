@@ -77,3 +77,30 @@ while (answer !== 'S3kreT P455w0rD') {
   console.log(i);
 }
 
+## Question 5
+
+**Which `while` loop will have the most iterations?**
+
+  1. let i = 0;
+while( i < 10 ) {
+  console.log(i);
+  i++;
+}
+
+  1. let c = 'o';
+while( c.length <= 20 ) {
+  console.log( c );
+  c = c + c;
+}
+
+  1. ***let i = 0;
+while( i <= 10 ) {
+  console.log(i);
+  i++;
+}***
+
+  1. let i = 0;
+while( i <= 10 ) {
+  console.log(i++);
+  i++;
+}
