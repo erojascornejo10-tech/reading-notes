@@ -1,4 +1,4 @@
-Question 1
+## Question 1
 
 **Which of the following is invalid JavaScript code, and would result in a syntax error?**
 
