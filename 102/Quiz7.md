@@ -51,3 +51,20 @@
   5.  A flow-control language construct to execute a code block a specific amount of times.
 
 ## Question 4
+
+**Select all statements that are true about functions in JavaScript.**
+
+  * ***Declaring a function and invoking (or 'calling') a function need to happen separately.***
+
+  * Functions are invoked by using curly braces.
+
+  * ***The code in a function is executed at the time the function is invoked.***
+
+  * ***Functions are invoked by using parenthesis.***
+
+  * The code in a function is executed at the time the function is declared.
+
+  * All functions are required to have a return statement in them. 
+
+## Question 5
+
