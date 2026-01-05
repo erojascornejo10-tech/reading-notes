@@ -93,11 +93,11 @@ while( c.length <= 20 ) {
   c = c + c;
 }
 
-  1. ***let i = 0;
+  1. <ins>***let i = 0;
 while( i <= 10 ) {
   console.log(i);
   i++;
-}***
+}***</ins>
 
   1. let i = 0;
 while( i <= 10 ) {
