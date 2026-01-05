@@ -56,3 +56,24 @@ while{ a === '42' } (
 while (answer !== 'S3kreT P455w0rD') {
   answer = prompt('Enter the passphrase to proceed...');
 }***
+
+## Question 4
+
+**Which `for` loop will have the most iterations?**
+
+  1. for (let i = 0; i <= 8; i=i+2) {
+  console.log(i);
+}
+
+  1. ***for (let i = 0; i <= 8; i++) {
+  console.log(i);
+}***
+
+  1. for (let i = 1; i < 8; i++) {
+  console.log(i);
+}
+
+  1. for (let i = 0; i < 8; i++) {
+  console.log(i);
+}
+
