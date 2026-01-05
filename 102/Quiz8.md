@@ -15,9 +15,9 @@ for (i = 0; i == 0 || i < 8; i++) {
   console.log(a)
 }
 
-  1. ***for ( i = 1 to 5 ) {
+  1. <ins>***for ( i = 1 to 5 ) {
   console.log(i);
-}***
+}***</ins>
 
 ## Question 2
 
@@ -52,10 +52,10 @@ while{ a === '42' } (
 
   1. while(false); { log.console('looping!'); }
 
-  1. ***let answer = ''; 
+  1. <ins>***let answer = ''; 
 while (answer !== 'S3kreT P455w0rD') {
   answer = prompt('Enter the passphrase to proceed...');
-}***
+}***</ins>
 
 ## Question 4
 
