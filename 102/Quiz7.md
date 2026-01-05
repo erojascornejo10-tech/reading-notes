@@ -68,3 +68,26 @@
 
 ## Question 5
 
+**What would most likely be the correct way to invoke the function defined here, in order to display a complete sandwich?**
+
+let makeSandwich = function(bread, meat, cheese) {
+  let sandwich = '';
+  
+  sandwich = sandwich + '<img src="' + bread + '.png">'; 
+  sandwich = sandwich + '<img src="' + meat + '.png">'; 
+  sandwich = sandwich + '<img src="' + cheese + '.png">'; 
+  sandwich = sandwich + '<img src="' + bread + '.png">'; 
+  
+  return sandwich;
+}
+
+1. makeSandwich;
+
+2. makeSandwich();
+
+3. makeSandwich(cheese, meat, bread);
+
+4. > sudo makeSandwich
+
+5. ***makeSandwich('rye', 'pastrami', 'provalone');***
+ 
