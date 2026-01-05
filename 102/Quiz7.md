@@ -38,3 +38,16 @@
 
 ## Question 3
 
+**Which of the below is the best explanation of what a function is, in JavaScript?**
+
+  1.  ***A reusable set of step-by-step instructions, potentially based on input, to potentially provide some output.***
+
+  2.  A conditional set of code blocks that runs when certain logic statements evaluate to true.
+
+  3.  All code in JavaScript is functions.
+
+  4.  A way to programmatically access a previously assigned value.
+
+  5.  A flow-control language construct to execute a code block a specific amount of times.
+
+## Question 4
