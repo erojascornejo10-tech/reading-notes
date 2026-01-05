@@ -14,4 +14,5 @@
 
 1. ***How many times will a while loop execute?***
 
-   A while loop will continue to repeat until a specified condition evaluates to false. 
+   A while loop will continue to repeat until a specified condition assigned by the user evaluates to false. 
+
