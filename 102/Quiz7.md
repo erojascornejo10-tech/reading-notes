@@ -19,3 +19,22 @@
 }***
 
 ## Question 2
+
+**What's the advantage of using functions in JavaScript?**
+
+  * Functions make the code run much faster in the CPU
+
+  * ***Functions help us avoid repeated code.***
+
+  * ***A well-named function communicates clearly it's purpose.***
+
+  * Using functions ensures our code has no errors in it.
+
+  * ***Functions make code reusable.***
+
+  * ***Functions let us define the code once, and then run the code wherever we need it.***
+
+  * We can't use `if` statements without functions.
+
+## Question 3
+
