@@ -7,14 +7,34 @@ for (i = 0; i == 0 || i < 8; i++) {
   console.log(i);
 }
 
-1. for (let i = 12; i > 0; i--) {
+  1. for (let i = 12; i > 0; i--) {
   console.log(i);
 }
 
-1. for (let a = 0; a <= 2000; a = a * 2) {
+  1. for (let a = 0; a <= 2000; a = a * 2) {
   console.log(a)
 }
 
-1. ***for ( i = 1 to 5 ) {
+  1. ***for ( i = 1 to 5 ) {
   console.log(i);
 }***
+
+## Question 2
+
+**Pick the optimal type of loop to utilize for each of the following use-cases.**
+
+  1. Ensuring a user has entered a numeric value
+
+     A while loop
+     
+  1. Restricting access until a correct password is entered
+    
+     A while loop
+
+  1. Showing each of the products in a shopping cart
+    
+     A for loop
+     
+  1. Displaying all the books on a digital bookshelf
+    
+     A for loop
