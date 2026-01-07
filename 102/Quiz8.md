@@ -25,19 +25,19 @@ for (i = 0; i == 0 || i < 8; i++) {
 
   1. Ensuring a user has entered a numeric value
 
-     **A while loop**
+     <ins>***A while loop***</ins>
      
   1. Restricting access until a correct password is entered
     
-     **A while loop**
+     <ins>***A while loop***</ins>
 
   1. Showing each of the products in a shopping cart
     
-     **A for loop**
+     <ins>***A for loop***</ins>
      
   1. Displaying all the books on a digital bookshelf
     
-     **A for loop**
+     <ins>***A for loop***</ins>
 
 ## Question 3
 
