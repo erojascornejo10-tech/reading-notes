@@ -28,4 +28,16 @@
 
 **Which of these is a valid format for creating a hyperlink?**
 
+  1. [learn more] [http://wikipedia.com]
 
+  2. <learn more::http://wikipedia.com>
+
+  3. (learn more)[http://wikipedia.com]
+
+  4. <a learn more @ http://wikipedia.com>
+
+  5. <ins>***[learn more](http://wikipedia.com)***</ins>
+
+  6. <learn more>(http://wikipedia.com)
+
+## Question 3
