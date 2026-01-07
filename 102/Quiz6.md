@@ -57,5 +57,19 @@ val = b - a;
 
 ## Question 4
 
+**In JavaScript, what is a variable?**
+
+  1. A variable is how code is conditionally executed.
+
+  2. A variable, by any other name, would smell as sweet.
+
+  3. In JavaScript, `variable` is a keyword for declaring pointers.
+
+  4. <ins>***A variable is a way to programmatically reference a previously assigned value.***</ins>
+
+## Question 5
+
+**Match each JavaScript literal value with its data type.**
+
 
 
