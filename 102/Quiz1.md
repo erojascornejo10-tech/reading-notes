@@ -74,4 +74,33 @@
 
 ## Question 5
 
-**
+**Given the following example web page:**
+
+-----------------------------------------------------------
+
+Second-level Header Text
+Some verbiage with very exciting language in it!
+
+Complete with a link to GitHubLinks to an external site..
+
+-----------------------------------------------------------
+
+**Help complete the Markdown file below! We want it to render looking like the page above.** 
+
+ 
+
+-----------------------------------------------------------
+
+##
+ Second-level Header Text
+
+Some verbiage with 
+*very exciting*
+ language in it!
+
+Complete with a link to 
+[GitHub](https://github.com/)
+ .
+
+-----------------------------------------------------------
+
