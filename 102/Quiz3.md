@@ -44,4 +44,29 @@
 
 ## Question 4
 
-**
+**What version of git is installed on your computer?**
+
+  1. 2.0
+
+  2. 1.0
+
+  3. 2.02
+
+  4. <ins>***2.16 or higher***</ins>
+
+  5. 0.2.1 or lower
+
+## Question 5
+
+**What is GitHub?**
+
+  1. A distributed version control system for tracking local changes to files.
+
+  2. A learning management system for tracking assignment submissions and student grades.
+
+  3. <ins>***A collaborative web site, powered by git, with cloud-based tools for software teams and open-source software projects.***</ins>
+
+  4. A code library for the NodeJS package manager.
+
+  5. A food ordering and delivery service.
+
