@@ -77,3 +77,17 @@
 
 **Which of the following are valid ways of setting a blue-like color in CSS?**
 
+  1. <ins>***#23F***</ins>
+
+  2. <ins>***rgba(37,142,255,1)***</ins>
+
+  3. <ins>***hsla(211, 100%, 70%, 0.75)***</ins>
+
+  4. rgb(42, 95%, 35%)
+
+  5. <ins>***hsl(200, 95%, 55%)***</ins>
+
+  6. #FF44AA
+
+  7. hsl(404, 95, 44,1)
+
