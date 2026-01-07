@@ -18,4 +18,22 @@
 
 ## Question 2
 
-**
+**The message you write to go along with a commit should contain...**
+
+  1. your geolocation coordinates at the moment you changed the files.
+
+  2. a brief explanation of WHY you made the changes you are committing.
+
+  3. your username, password, and mother's maiden name.
+
+  4. a description of exactly what changed in this commit.
+
+  5. an email to other developers who you are collaborating with.
+
+  6. the joke of the day.
+
+## Question 3
+
+**Once you have a set of changes you want to sync to a remote repository, you need to:**
+
+  1. 
