@@ -22,7 +22,7 @@
 
   1. your geolocation coordinates at the moment you changed the files.
 
-  2. a brief explanation of WHY you made the changes you are committing.
+  2. <ins>***a brief explanation of WHY you made the changes you are committing.***</ins>
 
   3. your username, password, and mother's maiden name.
 
