@@ -32,4 +32,30 @@
 
 ## Question 3
 
+**Which of the following are considered semantic tags?**
+
+  1. <head>
+
+  2. <ins>***<nav>***</ins>
+
+  3. <ins>***<main>***</ins>
+
+  4. <ins>***<article>***</ins>
+
+  5. <ins>***<footer>***</ins>
+
+  6. <ins>***<header>***</ins>
+
+  7. <b>
+
+  8. <div>
+
+  9. <span>
+
+  10. <ins>***<strong>***</ins>
+
+## Question 4
+
+**Which of the following examples has correctly nested HTML tags?**
+
 
