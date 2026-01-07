@@ -39,4 +39,20 @@ ls -la***</ins>
 
 **What version of NodeJS is installed on your computer?**
 
-  1. 
+  1. 7
+
+  2. 8
+
+  3. 6
+
+  4. 9
+
+  5. <ins>***10 or higher***</ins>
+
+  6. 5
+
+## Question 4
+
+**What does the `tree` command do?**
+
+
