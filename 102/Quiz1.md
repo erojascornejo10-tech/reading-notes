@@ -50,7 +50,7 @@
 
   3. * dragonfly - <ins>***Unordered list item***</ins>
     
-  4. > dragonfly - <ins>***Quoted test</ins>
+  4. > dragonfly - <ins>***Quoted text***</ins>
 
   5. #dragonfly - <ins>***H1 header***</ins>
 
