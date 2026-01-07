@@ -1,3 +1,5 @@
+# Programming with JavaScript
+
 ## Question 1
 
 **Which code snippet(s) correctly defines a function in JavaScript?**
