@@ -38,3 +38,30 @@
 
 ## Question 3
 
+**Complete the code below to make text wrap around to the right side of the image:**
+
+<html>
+ <head>
+   <style>
+     img {
+       float: <ins>***left;***</ins>
+
+       width: 20px;
+       padding: 5px
+     }
+   </style>
+ </head>
+ <body> 
+   <img src="https://cdn.pixabay.com/photo/2017/09/09/15/46/vitamin-2732432_1280.jpg" alt="Love at sea">
+   <p> 
+     My bounty is as boundless as the sea, My love as deep; 
+     the more I give to thee, The more I have, 
+     for both are infinite. 
+   </p>
+ </body>
+</html>
+
+## Question 4
+
+**Match the example selector on the left with the type of selector it represents on the right.**
+
