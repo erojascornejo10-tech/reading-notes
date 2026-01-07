@@ -65,3 +65,15 @@
 
 **Match the example selector on the left with the type of selector it represents on the right.**
 
+  1. p { color: mauve; } - <ins>***Element selector***</ins>
+
+  2. .new { color: SpringGreen; } - <ins>***Class selector***</ins>
+
+  3. #sitemap { color: NavajoWhite; } - <ins>***ID selector***</ins>
+
+  4. * { color: DimGrey; } - <ins>***Universal selector***</ins>
+
+## Question 5
+
+**Which of the following are valid ways of setting a blue-like color in CSS?**
+
