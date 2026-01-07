@@ -55,4 +55,25 @@ ls -la***</ins>
 
 **What does the `tree` command do?**
 
+  1. Shows files in the VS Code sidebar
+
+  2. <ins>***Display a visual layout of files and folders in the terminal***</ins>
+
+  3. Refreshes the File Explorer
+
+  4. Plant a tree for $.99
+
+## Question 5
+
+**What version of NPM is installed on your computer?**
+
+  1. <ins>***6 or higher***</ins>
+
+  2. 5
+
+  3. 3
+
+  4. 4
+
+
 
