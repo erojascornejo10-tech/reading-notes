@@ -36,4 +36,12 @@
 
 **Once you have a set of changes you want to sync to a remote repository, you need to:**
 
-  1. 
+  1. use the `git <ins>***add***</ins> ` command to set files as "staged",
+
+  2. then use the `git <ins>***commit***</ins> ` command to take a snapshot of the staged files,
+
+  3. and then use the `git <ins>***push***</ins> ` command to send your new snapshot of changes to the remote repo.
+
+## Question 4
+
+**
