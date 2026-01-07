@@ -44,19 +44,19 @@
 
 **Given the following as single lines of Markdown text, what would be the impact on the rendered page?**
 
-  1. * dragonfly *
+  1. * dragonfly * - <ins>*Italics*</ins>
     
-  2. ** dragonfly **
+  2. ** dragonfly ** - <ins>**Bold**</ins>
 
-  3. * dragonfly
+  3. * dragonfly - <ins>***Unordered list item***</ins>
     
-  4. > dragonfly
+  4. > dragonfly - <ins>***Quoted test</ins>
 
-  5. #dragonfly
+  5. #dragonfly - <ins>***H1 header***</ins>
 
-  6. & dragonfly
+  6. & dragonfly - <ins>***No Markdown effect***</ins>
 
-  7. 'dragonfly'
+  7. 'dragonfly' - <ins>***Inline code***</ins>
 
 # Question 4
 
