@@ -10,5 +10,24 @@
 
   4.  JavaScript is an advanced text editor that helps developers write code with auto-complete and quick snippets.
 
+## Question 2
+
+**Consider the following JavaScript code:**
+
+let a = 42;
+let b = '42';
+
+**Which of the following conditional statements will resolve to `true`?**
+
+  1. a === b
+
+  2. a < b
+
+  3. a > b
+
+  4. <ins>***a == b***</ins>
+
+## Question 3
+
 
 
