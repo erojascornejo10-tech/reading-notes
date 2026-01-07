@@ -60,4 +60,18 @@
 
 # Question 4
 
+**How might you most likely use Markdown to insert an image of a penguin on your page?**
+
+  1. [penguin.jpg](Check out this COOL penguin)
+
+  2. <ins>***![Check out this COOL penguin!](/images/penguins.jpg)***</ins>
+
+  3. [Check out this COOL penguin!](/images/penguins.jpg)
+
+  4. ![penguin.jpg](Check out this COOL penguin)
+
+  5. !(penguins.jpg)
+
+## Question 5
+
 **
