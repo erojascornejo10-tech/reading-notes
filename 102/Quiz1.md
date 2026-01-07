@@ -41,3 +41,23 @@
   6. <learn more>(http://wikipedia.com)
 
 ## Question 3
+
+**Given the following as single lines of Markdown text, what would be the impact on the rendered page?**
+
+  1. * dragonfly *
+    
+  2. ** dragonfly **
+
+  3. * dragonfly
+    
+  4. > dragonfly
+
+  5. #dragonfly
+
+  6. & dragonfly
+
+  7. 'dragonfly'
+
+# Question 4
+
+**
