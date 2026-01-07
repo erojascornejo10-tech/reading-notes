@@ -104,4 +104,8 @@
 
 ## Question 5
 
-**
+**HTML is used to define the structure of a web page.**
+
+  * <ins>***structure***</ins>
+
+
