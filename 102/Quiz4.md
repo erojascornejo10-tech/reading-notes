@@ -34,25 +34,25 @@
 
 **Which of the following are considered semantic tags?**
 
-  1. <head>
+  1. < head >
 
-  2. <ins>***<nav>***</ins>
+  2. <ins>***< nav >***</ins>
 
-  3. <ins>***<main>***</ins>
+  3. <ins>***< main >***</ins>
 
-  4. <ins>***<article>***</ins>
+  4. <ins>***< article >***</ins>
 
-  5. <ins>***<footer>***</ins>
+  5. <ins>***< footer >***</ins>
 
-  6. <ins>***<header>***</ins>
+  6. <ins>***< header >***</ins>
 
-  7. <b>
+  7. < b >
 
-  8. <div>
+  8. < div >
 
-  9. <span>
+  9. < span >
 
-  10. <ins>***<strong>***</ins>
+  10. <ins>***< strong >***</ins>
 
 ## Question 4
 
