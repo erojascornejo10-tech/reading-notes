@@ -58,4 +58,50 @@
 
 **Which of the following examples has correctly nested HTML tags?**
 
+  1. < header >
+< nav >
+< ul >
+< a href="home.html">Home</a >
+< a href="about.html">About</a >
+< /ul >
+< /nav >
+< /header >
 
+  2. < header >
+        < nav >
+            < ul >
+                < li >
+                    < a href="home.html">Home</a >
+                < li >
+                    < a href="about.html">About</a >
+    < /header >
+
+  3.  < header >
+        < nav >
+            < li >
+                < ul >
+                    < a href="home.html">Home</a >
+                < /ul >
+                < ul >
+                    < a href="about.html">About</a >
+                < /ul >
+            < /li >
+        < /nav >
+    < /header >
+
+  4.   <ins>***< header >
+        < nav >
+            < ul >
+                < li >
+                    < a href="home.html">Home</a >
+                < /li >
+                < li >
+                    < a href="about.html">About</a >
+                < /li >
+            < /ul >
+        < /nav >
+    < /header >***</ins>
+
+## Question 5
+
+**
