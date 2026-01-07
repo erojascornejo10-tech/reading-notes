@@ -15,3 +15,26 @@
 ## Question 2
 
 **Which CSS rule would style all hyperlinks on a web page to be light blue, and NOT underlined?**
+
+  1. a {
+  text-decoration: hidden;
+  color: hsla(110, 50%, 45%, 1);
+}
+
+  2. .a {
+  underline: off;
+  color: #0000FF;
+}
+
+  3. #a {
+  none underline;
+  lightblue color;
+}
+
+  4. <ins>***a {
+  text-decoration: none;
+  color: lightblue;
+}***</ins>
+
+## Question 3
+
