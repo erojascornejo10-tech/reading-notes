@@ -71,5 +71,15 @@ val = b - a;
 
 **Match each JavaScript literal value with its data type.**
 
+  1. '93' - <ins>***string***</ins>
+
+  2. 93 - <ins>***number***</ins>
+
+  3. true - <ins>***boolean***</ins>
+
+  4. 'two' - <ins>***string***</ins>
+
+  5. 4 + '2' - <ins>***string***</ins>
+
 
 
