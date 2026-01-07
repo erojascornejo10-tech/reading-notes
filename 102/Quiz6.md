@@ -29,5 +29,33 @@ let b = '42';
 
 ## Question 3
 
+**Which of the following is a properly formatted JavaScript conditional statement, assuming all the variables are already declared?**
+
+  1. <ins>***if (a - b > 0) {
+  val = a - b;
+} else {
+  val = b - a;
+}***</ins> 
+
+  2. if (a - b > 0) {
+ val = a - b;
+else {
+ val = b - a;
+} 
+
+  3. if (a - b) > 0 {
+ val = (a - b)
+} else (
+ val = (b - a)
+) 
+
+  4. if {a - b > 0} (
+val = a - b;
+) else (
+val = b - a;
+) 
+
+## Question 4
+
 
 
