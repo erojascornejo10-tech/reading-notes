@@ -44,7 +44,7 @@
  <head>
    <style>
      img {
-       float: **left;**
+       float: <ins>left;</ins>
 
        width: 20px;
        padding: 5px
