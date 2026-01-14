@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Tree</title>
+    </head>
+    <body>
+       <p>The DOM is a tree of HTML elements.</p>
+    </body>
+</html>
