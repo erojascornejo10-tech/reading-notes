@@ -41,3 +41,7 @@ A growth mindset means believing your abilities can improve through effort and l
 * [Read 13](201/Reading13.md)
 * [Read 14](201/Reading14.md)
 * [Read 15](201/Reading15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
